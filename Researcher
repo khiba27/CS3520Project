@@ -1,7 +1,7 @@
 In the context of this project, my role is crucial for ensuring that the development of the 8-bit processor simulator is informed, well-founded, and aligned with the requirements of the target application domain. Here’s a detailed report of my role of as a researcher and what it entails for this project:
 
 1. Understanding the Application Domain
-•	Literature Review: The researcher will conduct a comprehensive literature review to gather information on low-cost, battery-efficient communication devices, focusing on existing technologies used in areas with limited mobile infrastructure.
+•	Literature Review: I will conduct a comprehensive literature review to gather information on low-cost, battery-efficient communication devices, focusing on existing technologies used in areas with limited mobile infrastructure.
 •	Identify Key Requirements: Analyze the requirements for text-based communication and mobile money transactions in rural or underdeveloped regions. Understand the challenges such as limited bandwidth, energy efficiency needs, and minimal processing power requirements.
 •	Explore Existing Solutions: Investigate current solutions and technologies used for low-cost communication devices, exploring their strengths and limitations. This helps inform the design decisions for the processor simulator.
 
