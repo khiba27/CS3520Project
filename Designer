@@ -1,7 +1,7 @@
-In the context of an 8-bit processor simulator. The role of a designer entails:
+In the context of an 8-bit processor simulator. My role as a designer entails:
 
 1. Instruction Set Architecture (ISA) Design
-•	Defining the ISA: The designer will define the set of instructions that the processor can execute, ensuring that the ISA is simple, efficient, and versatile enough to handle text-based communication and mobile money transactions. The ISA should be optimized for low-power, small-footprint devices.
+•	Defining the ISA: I will define the set of instructions that the processor can execute, ensuring that the ISA is simple, efficient, and versatile enough to handle text-based communication and mobile money transactions. The ISA should be optimized for low-power, small-footprint devices.
 •	Design Simplicity and Efficiency: Design an ISA that minimizes the number of instructions while maintaining functionality. This involves selecting basic arithmetic, logical, data transfer, and control flow instructions that support the necessary operations without unnecessary complexity.
 •	Documentation: Clearly document the ISA, providing details of each instruction, its format, opcode, and usage, to ensure it’s easy to understand and implement.
 
